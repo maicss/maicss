@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @maicss.
 - 👀 I’m a web developer.
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maicss&show_icons=true&include_all_commits=true&border_radius=10">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maicss&show_icons=true&include_all_commits=true&border_radius=10">
-</picture>
-<br>
+<div align="center">
+  <img src="https://github-readme-stats-tau-jade.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=maicss" height="160" alt="stats graph"  />
+  &nbsp
+  <img src="https://github-readme-stats-tau-jade.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false&username=maicss" height="160" alt="languages graph"  />
+</div>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maicss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
